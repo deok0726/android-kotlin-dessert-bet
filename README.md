@@ -1,2 +1,2 @@
-# kotlin-practice
-Kotlin practice app with android studio
+# Dessert Bet
+This is betting game for desserts
